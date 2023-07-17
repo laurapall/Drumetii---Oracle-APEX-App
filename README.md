@@ -4,7 +4,6 @@
 "Drumetii" is an Oracle APEX application developed based on the knowledge from "Database Creation and Management" to facilitate hiking and trekking experiences. The app follows these steps:
 
 1. **Database Creation:** The "Drumetii" database has been created with the following tables: D_CLIENTI, D_LOCALITATE, D_JUDET, D_COMANDA, D_TRASEE, D_GHIZI.
-
 <br><br>
 
    <img width="2048" alt="Screenshot 2023-02-19 at 21 43 51" src="https://github.com/laurapall/Drumetii-Oracle-APEX-App/assets/48211193/ca38573a-471d-45c6-a150-ef061ccb767c">
@@ -12,6 +11,8 @@
 <br><br>
 
 2. **User Interface:** The application's user interface has been divided into three main pages: Data Entry, Data Modification, and Reports.
+
+<br><br>
 
 ## Data Entry
 
