@@ -11,7 +11,7 @@
 
 <br><br>
 
-3. **User Interface:** The application's user interface has been divided into three main pages: Data Entry, Data Modification, and Reports.
+2. **User Interface:** The application's user interface has been divided into three main pages: Data Entry, Data Modification, and Reports.
 
 ## Data Entry
 
